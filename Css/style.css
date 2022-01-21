@@ -20,9 +20,10 @@ body {
 }
 
 button {
+    margin: 20px;
     cursor: pointer;
-    width: 120px;
-    height: 75px;
+    width: 250px;
+    height: 80px;
     outline: none;
     font-family: exo, sans-serif;
     font-size: 25px;
